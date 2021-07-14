@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdouAoufi  A front end web developer 
+- 👋 Hi, I’m @abdouAoufi  A full stack web developer 
 - 👀 I’m interested in Web developement 
-- 🌱 I’m currently learning fornt end web developement using REACT.JS
+- 🌱 I’m currently learning fornt end web developement using REACT.JS and back end using NODE.JS
 - 💞️ I’m looking to collaborate on React js project
 - 📫 How to reach me abdouou7@gmail.com this is my email 
 
