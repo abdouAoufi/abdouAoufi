@@ -1,9 +1,9 @@
-### Hi there, I'm Aoufi - Abderahmane  👋
+### Hi there, I'm Aoufi Abderahmane  👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aoufiabderahman) -->
 
-## I'm a Aoufi Abderahmane Web Developer, and Javascript lover !!
+## I'm a Aoufi Abderahmane Web Developer, and I love Javascript <3> !!
 
 - 🔭 I just start my own project which is  blog website 
 - 🌱 I’m currently learning everything especially MERN stack🤣
@@ -46,7 +46,6 @@
 
 ---
 
-<img align="left" alt="Abdou github status" src="https://github-readme-stats.vercel.app/api?username=abdouAoufi" />
 
 
 
@@ -69,6 +68,11 @@
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
+
+<br/>
+
+
+<img align="left" alt="Abdou github status" src="https://github-readme-stats.vercel.app/api?username=abdouAoufi" />
 
 [facebook]: https://www.facebook.com/abderahmaneaoufi
 [website]: https://codeSTACKr.com
