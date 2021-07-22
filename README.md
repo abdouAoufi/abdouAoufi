@@ -72,7 +72,7 @@
 <br/>
 
 
-<img align="left" alt="Abdou github status" src="https://github-readme-stats.vercel.app/api?username=abdouAoufi" />
+<img align="left" alt="Abdou github status" src="https://github-readme-stats.vercel.app/api?username=abdouAoufi&hide=contribs,prs" />
 
 [facebook]: https://www.facebook.com/abderahmaneaoufi
 [website]: https://codeSTACKr.com
