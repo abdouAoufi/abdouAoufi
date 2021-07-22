@@ -1,9 +1,9 @@
 ### Hi there, I'm Aoufi - Abderahmane  👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aoufiabderahman)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aoufiabderahman) -->
 
-## I'm a Aoufi Abderahmane , Student , Developer, and Javascript lover !!
+## I'm a Aoufi Abderahmane , Computer science Student , Web Developer, and Javascript lover !!
 
 - 🔭 I just launched my first blog website : [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything especially MERN stack🤣
@@ -52,6 +52,7 @@
 1. 🗣 Start new web app repository on github
 2. 🎉 Learning nodeJs
 3. 🗣 Building react projects 
+5. 🎉 Playing around with mongoDb
 </details>
 
 
