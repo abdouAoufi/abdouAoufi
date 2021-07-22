@@ -5,7 +5,7 @@
 
 ## I'm a Aoufi Abderahmane , Computer science Student , Web Developer, and Javascript lover !!
 
-- 🔭 I just launched my first blog website : [Become A VS Code SuperHero!][course]!
+- 🔭 I just start my own project which is  blog website 
 - 🌱 I’m currently learning everything especially MERN stack🤣
 - 👯 I’m looking to collaborate with other amazing developers just like you
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -49,10 +49,10 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Start new web app repository on github
-2. 🎉 Learning nodeJs
-3. 🗣 Building react projects 
-5. 🎉 Playing around with mongoDb
+1. 🗣 Start new web app repository on github <br />
+2. 🎉 Learning nodeJs <br />
+3. 🗣 Building react projects  <br />
+5. 🎉 Playing around with mongoDb <br />
 </details>
 
 
