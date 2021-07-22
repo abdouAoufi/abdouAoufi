@@ -56,6 +56,11 @@
 </details>
 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [facebook]: https://www.facebook.com/abderahmaneaoufi
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
