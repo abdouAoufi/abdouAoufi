@@ -5,15 +5,13 @@
 
 ## I'm a Aoufi Abderahmane Web Developer, and I love Javascript <3> !!
 
-- 🔭 I just start my own project which is  blog website 
+- 🔭 I just start my own project which is platform for reading articles and sharing ideas  
 - 🌱 I’m currently learning everything especially MERN stack🤣
 - 👯 I’m looking to collaborate with other amazing developers just like you
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love javascript more than my gf 
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
