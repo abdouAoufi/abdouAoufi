@@ -1,9 +1,9 @@
-### Hi there, I'm Aoufi Abderahmane  👋
+## Hi there, I'm Aoufi Abderahmane  👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aoufiabderahman) -->
 
-## I'm a Aoufi Abderahmane Web Developer, Top 10 developers according to GitHub !!
+### Full-stack javascript Developer, &#128285; Top 10 developers in Algeria according to GitHub &#127913; 
 
 - 🔭 I created MiniRead for writing knwoledge and sharing ideas  
 - 🌱 I’m currently learning everything especially MERN stack🤣
