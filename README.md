@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything especially MERN stack🤣
 - 👯 I’m looking to collaborate with other amazing developers just like you
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love javascript more than my gf 
+- ⚡ Fun fact: Write time is more important than runtim!
 
 
 
