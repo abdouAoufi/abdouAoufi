@@ -1,31 +1,14 @@
-## Hi there, I'm Aoufi Abderahmane  👋
+## Hi there, I'm Aoufi Abderahmane JavaScript developer  👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aoufiabderahman) -->
-
-### Front end & Mobile developer, &#128285; Top 100 developers in Algeria according to GitHub &#127913; 
-
-- 🔭 I created MiniRead for writing knwoledge and sharing ideas  
-- 🌱 I’m currently learning everything especially MERN stack🤣
-- 👯 I’m looking to collaborate with other amazing developers just like you
-- 🥅 2023 Goals: not set yet.
-- ⚡ Fun fact: Write time is more important than runtime!
-
-
-
+####Current Experience : 
+ - Front end & Mobile developer | full time - Lasting Dynamics
+### Languages and Skills:
 
 
 </br>
+ 
+<img align="left"   alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-
-<br />
-</br>
-
-### Languages and Tools:
-
-
-</br>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
@@ -42,16 +25,15 @@
 <br />
 <br />
 
----
 
 
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary> Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Start new web app repository on github <br />
-2. 🎉 creating powerfull web apps <br />
+2. 🎉 creating power full web apps <br />
 3. 🗣 Building react projects  <br />
 4. 🎉 Playing around with mongoDb <br />
 </details>
