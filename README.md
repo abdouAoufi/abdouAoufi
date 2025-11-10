@@ -1,7 +1,7 @@
 ## Hi there, I'm Aoufi Abderahmane I'm a developer, content creator!  👋
 
 #### Current Experience : 
- - Front end & Mobile developer | full time - Lasting Dynamics
+ - Front end & Mobile developer
 ### Languages and Skills:
 
 
