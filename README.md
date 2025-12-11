@@ -1,7 +1,7 @@
-## Hi there, I'm Aoufi Abderahmane I'm a developer, content creator!  👋
+## Hi there, I'm Aoufi Abderahmane Sotware developer 👋
 
 #### Current Experience : 
- - Front end & Mobile developer
+ - Front end & Mobile developer.
 ### Languages and Skills:
 
 
